@@ -1,0 +1,5 @@
+computer#1500.45
+soccer ball#37.23
+television#340.20
+IKEA table#175.11
+IKEA chair#89.99
